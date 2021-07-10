@@ -14,7 +14,7 @@ taking the argmax of the outputs
 average of outputs**2
 ### root
 average of root outputs
-### Nsquare
+### N-square
 average of outputs**N
 ### T-softmax
 average of softmax(outputs/T)
